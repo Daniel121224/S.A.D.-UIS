@@ -1,2 +1,3 @@
 # S.A.D.-UIS
-Sistema de Asuntos Docentes
+Sistema de Asuntos Docentes UIS
+
